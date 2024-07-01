@@ -1,1 +1,2 @@
 # Walmart_business-case
+Conducted comprehensive data analysis for Walmart, identifying key customer segments based on age, gender, and occupation. Applied statistical methods to detect outliers and analyze purchase behaviors, leading to insights on spending patterns. Utilized confidence intervals and Central Limit Theorem to predict population spending trends. Provided actionable recommendations for targeted marketing, personalized loyalty programs, and product bundling to enhance customer engagement and sales.
